@@ -1,0 +1,22 @@
+## Week 3 Quiz
+Quiz, 6 questions
+
+Only correct solutions are provided.
+
+Q1 What is a Convolution?
+-A technique to isolate features in images
+
+Q2 What is a Pooling?
+-A technique to reduce the information in an image while maintaining features
+
+Q3 How do Convolutions improve image recognition?
+-They isolate features in images
+
+Q4 After passing a 3x3 filter over a 28x28 image, how big will the output be?
+-26x26
+
+Q5 After max pooling a 26x26 image with a 2x2 filter, how big will the output be?
+-13x13
+
+Q6 Applying Convolutions on top of our Deep neural network will make training:
+-It depends on many factors. It might make your training faster or slower, and a poorly designed Convolutional layer may even be less efficient than a plain DNN!
